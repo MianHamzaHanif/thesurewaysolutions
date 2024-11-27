@@ -14,7 +14,7 @@ const Revenue = () => {
   return (
     <div className='container'>
         <div className='row mt-4 justify-content-between'>
-      <h2 className='mb-3 mt-3'>Trivium MBS Revenue Cycle Management and Billing Services
+      <h2 className='mb-3 mt-3'>The sure ways solutions Revenue Cycle Management and Billing Services
 </h2>  
                 <h5 className='clr'></h5>
                 <div className='col-lg-12 d-lg-flex d-block  gap-3 mt-3'>

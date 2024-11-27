@@ -22,7 +22,7 @@ const Covery = () => {
           <div className='row align-items-center'>
             <div className='col-lg-6 col-12 '>
               <h2>Services for Coverage Discovery</h2>
-              <p>For Trivium We'll lessen your revenue loss. <br />
+              <p>For The sure ways solution We'll lessen your revenue loss. <br />
 Simply said, patients' lack of insurance or inadequate insurance is the main cause of the lost income from uncompensated treatment. Due to negligence or a personnel shortage, another portion is simply never billed internally by the medical billing department. However, it's thought that up to 10% of self-pay accounts that are written off are in fact protected by chargeable insurance or a government health care program. This constitutes a large portion of the providers' prior-to-now challenging-to-recover income.
 
               </p>
@@ -41,7 +41,7 @@ Simply said, patients' lack of insurance or inadequate insurance is the main cau
         <div className='row align-items-center'>
           <div className='col-lg-6 col-12'>
             <h3>Services for Coverage Discovery Increased Income</h3>
-            <p> Hundreds of billions of dollars have been lost in income as a result of uncompensated care. The Coverage Discovery team at Trivium MBS searches for insurance that patients might not even be aware they have and secures all available reimbursements for our customers.</p>
+            <p> Hundreds of billions of dollars have been lost in income as a result of uncompensated care. The Coverage Discovery team at The sure ways solutions searches for insurance that patients might not even be aware they have and secures all available reimbursements for our customers.</p>
           </div>
           <div className='col-lg-6 col-12 text-center'>
             <img src={covery1} alt="" className='mb-4 img-fluid' style={{height:"300px"}}/>
@@ -70,7 +70,7 @@ They frequently believe you will find out about a secondary coverage if you chec
         <div className='row'>
 
           <div className='col-lg-6 col-12'>
-            <h3>How the Coverage Discovery Service at Trivium MBS Operates</h3>
+            <h3>How the Coverage Discovery Service at The sure ways solutions Operates</h3>
             <p>It is obvious that it would be difficult to individually investigate every potential payer for every single patient. Software tools made especially for the job are used by Coverage Discovery. When a patient states they are self-paying, we may help both the patient and the physician if there is any amount of coverage by automatically searching for it. The resources include sophisticated search functions, automated claim cleansing, a sizable database, and algorithms made to weed out false-positive findings and inaccurate conclusions.
             </p>
           </div>

@@ -54,14 +54,14 @@ const Demo = () => {
             <div className='container '>
                 <div className='row justify-content-between'>
                     <div className='col-lg-6 col-12'>
-                        <h2 className='clr'>With Trivium MBS, you get a host of benefits</h2>
+                        <h2 className='clr'>With The sure ways solutions, you get a host of benefits</h2>
                         <div className='demo_box d-flex'>
                             {/* <img src={demo} alt="" className='choose_icons'/> */}
                             <BsGraphDown className='icon_height' />
                             <div className='d-block ms-3'>
                                 <h5>Reducing costs:
                                 </h5>
-                                <p>You will save 40% to 50% by using Trivium MBS and we will only charge you a small percentage.</p>
+                                <p>You will save 40% to 50% by using The sure ways solutions and we will only charge you a small percentage.</p>
                             </div>
 
                         </div>
@@ -71,7 +71,7 @@ const Demo = () => {
                             <div className='d-block ms-3'>
                                 <h5>Revenue growth:
                                 </h5>
-                                <p>Through regular audits and reviews of billing processes and claim submissions, Trivium can help maintain revenue integrity by reducing the number of claims rejected or denied.</p>
+                                <p>Through regular audits and reviews of billing processes and claim submissions, The sure ways solution can help maintain revenue integrity by reducing the number of claims rejected or denied.</p>
                             </div>
                         </div>
                         <div className='demo_box d-flex'>
@@ -90,7 +90,7 @@ const Demo = () => {
                     <div className='col-lg-6 col-12 px-lg-4 px-0'>
                         <h2 className='clr px-lg-4 ms-lg-1 ms-0 px-0'>Schedule a Demo</h2>
                         <p className='mb-2 px-lg-4 ms-lg-1 ms-0 px-0 '>A member of our team will get back to you within <strong>24/48 hours</strong> .</p>
-                        <p className='mb-0 px-lg-4 ms-lg-1 ms-0 px-0 font'>For immediate service, give us a call at <strong>800-640-6409</strong>
+                        <p className='mb-0 px-lg-4 ms-lg-1 ms-0 px-0 font'>For immediate service, give us a call at <strong>307-316-90</strong>
 
                         </p>
                         <form className='bg_demo mt-3 ' onSubmit={handleSubmit(onSubmit)}>

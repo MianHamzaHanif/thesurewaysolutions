@@ -41,7 +41,7 @@ Personalized Assistance
           <div className='col-lg-8 col-12'>
             <h2 className='clr'>Reduce Costs by Shortening the Reimbursement Cycle</h2>
 
-            <p>With Trivium MBS, your revenue cycle management is streamlined, clean claims are filed fast, and more claims are paid with less waiting time. Years of testing, assessing, and upgrading our processes have gone into developing our medical billing system in order to provide our clients with the best and quickest recovery possible. We pay attention to your needs, assess your current system, and develop a tailored solution to generate more money more quickly and simply.</p>
+            <p>With The sure ways solutions, your revenue cycle management is streamlined, clean claims are filed fast, and more claims are paid with less waiting time. Years of testing, assessing, and upgrading our processes have gone into developing our medical billing system in order to provide our clients with the best and quickest recovery possible. We pay attention to your needs, assess your current system, and develop a tailored solution to generate more money more quickly and simply.</p>
           </div>
           <div className='col-lg-4 col-12'>
             <img src={billcoin} alt="" />

@@ -12,7 +12,7 @@ const Complaint = () => {
             </div>
             <div className='col-lg-6'>
                 <h2 className='clr'>Schedule a Demo</h2>
-                <p>For immediate service, give us a call at <strong>800-640-6409</strong> .</p>
+                <p>For immediate service, give us a call at <strong>281-904-9237</strong> .</p>
                 <p>To ensure the security and privacy of patient information our company is in contract with one of the best IT security firms who have the latest encryption and data protection protocols in place.
 </p>
 <NavLink to="contact" className="ms-0">

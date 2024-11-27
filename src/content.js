@@ -97,14 +97,14 @@ const data = [
     route: "hepatology",
     bg_image: hepa,
     side_txt: "HEPATOLOGY BILLING SERVICES",
-    heading: "Trivium MBS’s Hepatology Medical Billing Services",
+    heading: "The sure ways solutions’s Hepatology Medical Billing Services",
     heading_para:
       "More and more physicians are reporting dissatisfaction due to the many hours of paperwork involved in their jobs that both create stress and deny patients the time and attention they deserve. Medical billing for hepatology is a complicated process that requires a considerable amount of time to deal with the hectic paperwork, but it is key to the success of the practice, as it determines the compensation received for services provided to patients.",
     section_image: hepa1,
     new_section_img: hepa2,
     new_section_heading: "Doctors Can Have an Optimized Revenue Stream",
     new_section_heading_para:
-      "Trivium MBS provides full revenue cycle management (RCM) so that primary care physicians can have optimized hepatology billing services without having to manage them themselves. We have a staff of certified billers and coders who are experienced in their fields so outsourcing gastroenterology hepatology billing and coding services to us results in fewer claim denials and rejections—and significantly more revenue.",
+      "The sure ways solutions provides full revenue cycle management (RCM) so that primary care physicians can have optimized hepatology billing services without having to manage them themselves. We have a staff of certified billers and coders who are experienced in their fields so outsourcing gastroenterology hepatology billing and coding services to us results in fewer claim denials and rejections—and significantly more revenue.",
     why_heading: "Why Hepatology Billing Needs Specialists?",
     why_para:
       "There are a lot of people offering medical billing services, but working with the right team will yield far better results. It is important to find hepatology billing companies that are who are professional and experienced in the specialization. Here are just a few of the reasons you need to outsource your billing services",
@@ -182,7 +182,7 @@ const data = [
     new_section_heading:
       "Oncology Billing Services Take the Pressure Off Physicians",
     new_section_heading_para:
-      "By its very nature, oncology is one of the more stressful fields of medicine. The seriousness of the conditions being treated means that physicians are frequently dealing with life-threatening diseases and complex treatments. That means anything that can be done to relieve job stress should be done.      On top of all that, rapidly changing treatment technologies mean extra work keeping up with codes, submitting claims and negotiating reimbursement rates. These are some of the things effective oncology medical billing services can take care of for you.      The staff on Trivium MBS’s oncology billing team know how to effectively respond to denials and rejections, so that no unpaid claims are abandoned. Our billing and coding procedures have been streamlined to ensure efficient processing and our staff receive ongoing training to make sure errors are not repeated. Our RCM specialists will even handle any required annual payer adjustments and payback.",
+      "By its very nature, oncology is one of the more stressful fields of medicine. The seriousness of the conditions being treated means that physicians are frequently dealing with life-threatening diseases and complex treatments. That means anything that can be done to relieve job stress should be done.      On top of all that, rapidly changing treatment technologies mean extra work keeping up with codes, submitting claims and negotiating reimbursement rates. These are some of the things effective oncology medical billing services can take care of for you.      The staff on The sure ways solutions’s oncology billing team know how to effectively respond to denials and rejections, so that no unpaid claims are abandoned. Our billing and coding procedures have been streamlined to ensure efficient processing and our staff receive ongoing training to make sure errors are not repeated. Our RCM specialists will even handle any required annual payer adjustments and payback.",
     why_heading: "Why You Should Outsource Oncology Billing to Specialists",
     why_para:
       "There are many reasons oncology billing and coding is so complicated, starting with the fact that the coding system in general is complex. There’s just no way around it, you have to work with the codes, and since they change, there is no way to become an expert at billing for oncology without constantly dedicating time to it.",
@@ -192,7 +192,7 @@ const data = [
     mutliple_image: oncology3,
     bundled_heading: "We Track Every Single Claim",
     bundled_para:
-      "Another reason to outsource your oncology billing services to Trivium MBS is that in addition to a team of our experienced medical billers being assigned to your account, we will also appoint an account manager so that there will always be someone who is familiar with your business and who knows the status of all your claims. Millions of dollars are lost by medical practices every year simply because rejected and denied claims are dropped. Trivium MBS’s account managers track every claim and make sure to follow up on anything that is unpaid, regardless of whether it is for a large amount or a small one.",
+      "Another reason to outsource your oncology billing services to The sure ways solutions is that in addition to a team of our experienced medical billers being assigned to your account, we will also appoint an account manager so that there will always be someone who is familiar with your business and who knows the status of all your claims. Millions of dollars are lost by medical practices every year simply because rejected and denied claims are dropped. The sure ways solutions’s account managers track every claim and make sure to follow up on anything that is unpaid, regardless of whether it is for a large amount or a small one.",
     bundled_image: oncology4,
   },
   {
@@ -208,11 +208,11 @@ const data = [
     new_section_heading:
       "Providing Premium Billing Services So You Can Focus on Patient Care",
     new_section_heading_para:
-      "Trivium MBS provides medical billing services and nephrology practice management to streamline daily operations. We allow doctors and their medical staff to focus on their patients while we take care of claims and reimbursements. Our services cover full revenue cycle management (RCM) from getting payer authorization upon first contact with the patient to collecting balances due from patients. We have a staff of certified billers and coders who are experienced in nephrology billing and coding, so they are able to recognize the less common situations and get the coding right. Whether you use an EHR system or nephrology EMR software , we can integrate our system with yours quickly so there is no lag in your revenue.",
+      "The sure ways solutions provides medical billing services and nephrology practice management to streamline daily operations. We allow doctors and their medical staff to focus on their patients while we take care of claims and reimbursements. Our services cover full revenue cycle management (RCM) from getting payer authorization upon first contact with the patient to collecting balances due from patients. We have a staff of certified billers and coders who are experienced in nephrology billing and coding, so they are able to recognize the less common situations and get the coding right. Whether you use an EHR system or nephrology EMR software , we can integrate our system with yours quickly so there is no lag in your revenue.",
     why_heading:
       "Why You Need an Integrated Nephrology Practice Management System",
     why_para:
-      "There are a lot of dialysis billing companies around, but finding one that stays updated with compliance changes and payer requirements can be a challenge. At Trivium MBS, we pride ourselves on providing top-notch nephrology medical billing services. Our team receives ongoing training so they are up to date on the ever-changing medical billing codes and requirements. These are just a few of the reasons you need an experienced team of specialists working for you:",
+      "There are a lot of dialysis billing companies around, but finding one that stays updated with compliance changes and payer requirements can be a challenge. At The sure ways solutions, we pride ourselves on providing top-notch nephrology medical billing services. Our team receives ongoing training so they are up to date on the ever-changing medical billing codes and requirements. These are just a few of the reasons you need an experienced team of specialists working for you:",
     multiple_heading: "Bundled Codes",
     multiple_para:
       "For surgery and other complex treatments, payers have “bundled” multiple items into one billing code. In theory, this simplifies billing, but there are often exceptions to the standard inclusions. Not only must these be coded separately, they must also be coded in a way that makes the necessity of each one clear, otherwise it will be denied as a duplicate bill.",
@@ -229,7 +229,7 @@ const data = [
     side_txt: "PODIATRY MEDICAL BILLING SERVICES",
     heading: "Podiatry Billing Services that Get Results",
     heading_para:
-      "Podiatry billing and coding is a complex practice because not all services you provide are easily reimbursable by insurers, especially Medicare. Worry not! Our podiatry medical billing company specializes in handling these complexities and can alleviate the burden from your shoulders. Our billers have mastered the process and will get you paid as quickly as possible.    Trivium MBS leaves no stone unturned when it comes to submitting your claims. We focus on maximizing reimbursements and minimizing denials. Our team stays up to date with the latest coding and billing guidelines, for enhanced reimbursements. So why wait?",
+      "Podiatry billing and coding is a complex practice because not all services you provide are easily reimbursable by insurers, especially Medicare. Worry not! Our podiatry medical billing company specializes in handling these complexities and can alleviate the burden from your shoulders. Our billers have mastered the process and will get you paid as quickly as possible.    The sure ways solutions leaves no stone unturned when it comes to submitting your claims. We focus on maximizing reimbursements and minimizing denials. Our team stays up to date with the latest coding and billing guidelines, for enhanced reimbursements. So why wait?",
     section_image: podi1,
     new_section_img: podi2,
     new_section_heading: "Frustrated with Inconsistent Insurance Policies?",
@@ -237,7 +237,7 @@ const data = [
       "We understand how frustrating it can be when insurance companies reduce the amount they’re willing to pay. It also becomes confusing for patients when their coverage changes each year. However, there’s good news for medical practices. By outsourcing your revenue cycle management (RCM) services to us, you’ll have a team of experts who stay on top of payer changes so you don’t have to try to keep up with them.",
     why_heading: "Podiatry Billing and Coding Challenges",
     why_para:
-      "Medical billing for podiatrists deals with a wide range of coding problems compared to other medical fields. We totally understand that grappling with the complexities of podiatry billing and coding challenges is a major frustration for providers. However, withTrivium MBS you can wave goodbye to time-consuming paperwork and payers’ complexities. We frequently find errors in these challenges for podiatry billing::",
+      "Medical billing for podiatrists deals with a wide range of coding problems compared to other medical fields. We totally understand that grappling with the complexities of podiatry billing and coding challenges is a major frustration for providers. However, withThe sure ways solutions you can wave goodbye to time-consuming paperwork and payers’ complexities. We frequently find errors in these challenges for podiatry billing::",
     multiple_heading:
       "Coding Fails to Distinguish Medically Necessary from Routine",
     multiple_para:
@@ -255,7 +255,7 @@ const data = [
     side_txt: "PSYCHIATRIC BILLING SERVICES",
     heading: "Billing Services Tailored for Your Specialization",
     heading_para:
-      "Psychiatry is a very specialized field of medical care, and psychiatric billing services must be very attentive to detail. . Trivium MBS offers full revenue cycle management (RCM), including processing claims and handling rejections and denials, which greatly reduces administrative responsibilities and allows psychiatrists and medical staff to focus on patient care. Outsourcing RCM and related administrative tasks, such as payer credentialing and compliance reviews has proven to be a winning solution for practitioners and medical institutions across the country.. We provide behavioral health billing solutions that help you get reimbursement from payers without any complications.",
+      "Psychiatry is a very specialized field of medical care, and psychiatric billing services must be very attentive to detail. . The sure ways solutions offers full revenue cycle management (RCM), including processing claims and handling rejections and denials, which greatly reduces administrative responsibilities and allows psychiatrists and medical staff to focus on patient care. Outsourcing RCM and related administrative tasks, such as payer credentialing and compliance reviews has proven to be a winning solution for practitioners and medical institutions across the country.. We provide behavioral health billing solutions that help you get reimbursement from payers without any complications.",
     section_image: syci1,
     new_section_img: syci2,
     new_section_heading: "Complex Coding",
@@ -264,7 +264,7 @@ const data = [
     why_heading:
       "Seamless Billing, Happy Patients: Optimize Your Practice with Our Billing Services",
     why_para:
-      "Psychiatry serves a high-need population that can be taxing for medical staff as well as doctors. Administrative stress on top of that just doesn’t make sense when it can be avoided, and outsourcing revenue cycle management to Trivium MBS provides that relief.",
+      "Psychiatry serves a high-need population that can be taxing for medical staff as well as doctors. Administrative stress on top of that just doesn’t make sense when it can be avoided, and outsourcing revenue cycle management to The sure ways solutions provides that relief.",
     multiple_heading: "Complicated Rules for Coverage",
     multiple_para:
       "All plans offered in the Health Insurance Marketplace are required to include mental health and substance use disorder services by the Affordable Care Act (ACA), but it does not detail what must be covered, so coverages vary greatly between plans and the same carrier may have different policies from state to state.        Medicare covers mental health care under separate parts: Part A for hospital insurance, Part B for Medical insurance and Part D for prescription drug coverage. Since patients may be enrolled in different options for each—and have supplemental insurance—offering behavioral health billing services is very complicated and requires specialized training and experience. Professional billing companies are aware of these variations so we can file your claims correctly.",
@@ -281,15 +281,15 @@ const data = [
     side_txt: "PSYCHOLOGY BILLING SERVICES",
     heading: "We Allows Psychologists To Focus On Patient Care",
     heading_para:
-      "In practice, psychology is quite different from other fields of medicine, but unfortunately that doesn’t exempt the practice from the headaches of medical billing and coding. Trivium MBS offers full revenue cycle management (RCM), including processing claims and handling rejections and denials. Being a psychology billing company, we greatly reduce administrative responsibilities and allow psychologists to focus on patient care.",
+      "In practice, psychology is quite different from other fields of medicine, but unfortunately that doesn’t exempt the practice from the headaches of medical billing and coding. The sure ways solutions offers full revenue cycle management (RCM), including processing claims and handling rejections and denials. Being a psychology billing company, we greatly reduce administrative responsibilities and allow psychologists to focus on patient care.",
     section_image: logi1,
     new_section_img: logi2,
     new_section_heading: "RCM Can Be Entirely Outsourced To One Provider",
     new_section_heading_para:
-      "It may come as a surprise that RCM can be entirely outsourced to one provider, but Trivium MBS’s innovative software and comprehensive management process takes care of it from the time patients are scheduled until payments are collected and beyond. Our psychotherapy billing services can actually begin before you even see patients by managing insurance credentialing. And we also take care of annual payer adjustments and pay back.",
-    why_heading: "Trivium MBS’s Full Suite of Psychology Billing Solutions",
+      "It may come as a surprise that RCM can be entirely outsourced to one provider, but The sure ways solutions’s innovative software and comprehensive management process takes care of it from the time patients are scheduled until payments are collected and beyond. Our psychotherapy billing services can actually begin before you even see patients by managing insurance credentialing. And we also take care of annual payer adjustments and pay back.",
+    why_heading: "The sure ways solutions’s Full Suite of Psychology Billing Solutions",
     why_para:
-      "Trivium MBS takes care of revenue cycle management from credentialing to annual reviews, protecting your income while you focus on patient care.",
+      "The sure ways solutions takes care of revenue cycle management from credentialing to annual reviews, protecting your income while you focus on patient care.",
     multiple_heading: "Complicated Rules for Coverage",
     multiple_para:
       "Some health care policies exclude mental health care altogether, and those that include it have a wide range of policies. The Affordable Care Act (ACA) requires Marketplace plans to include mental health and substance use disorder services but does not detail what must be covered. Though it is more widely covered than it has been in the past, the rules for therapy may even vary from state to state by the same insurer. As a psychology billing company, we stay updated with the complicated rules.",
@@ -311,9 +311,9 @@ const data = [
     new_section_img: clinic2,
     new_section_heading: " Clinical Laboratories Billing Experts",
     new_section_heading_para:
-      "Trivium MBS offers tailored billing solutions for clinical labs. Our certified medical billing specialists stay up to date on regulatory and medical lab billing standards and our professional clinical laboratories billing services ensure increased revenue stream and maximizes profitability. With accurate coding, timely submission of completed claims, and aggressive follow-up on denials, clinical lab billing specialists help you shape a long-term plan to succeed amidst all of the changes in store for laboratories.",
-    // why_heading:"Trivium MBS’s Full Suite of Psychology Billing Solutions",
-    // why_para:"Trivium MBS takes care of revenue cycle management from credentialing to annual reviews, protecting your income while you focus on patient care.",
+      "The sure ways solutions offers tailored billing solutions for clinical labs. Our certified medical billing specialists stay up to date on regulatory and medical lab billing standards and our professional clinical laboratories billing services ensure increased revenue stream and maximizes profitability. With accurate coding, timely submission of completed claims, and aggressive follow-up on denials, clinical lab billing specialists help you shape a long-term plan to succeed amidst all of the changes in store for laboratories.",
+    // why_heading:"The sure ways solutions’s Full Suite of Psychology Billing Solutions",
+    // why_para:"The sure ways solutions takes care of revenue cycle management from credentialing to annual reviews, protecting your income while you focus on patient care.",
     multiple_heading:"Complicated Rules for Coverage",
     multiple_para:"Some health care policies exclude mental health care altogether, and those that include it have a wide range of policies. The Affordable Care Act (ACA) requires Marketplace plans to include mental health and substance use disorder services but does not detail what must be covered. Though it is more widely covered than it has been in the past, the rules for therapy may even vary from state to state by the same insurer. As a psychology billing company, we stay updated with the complicated rules.",
     mutliple_image:logo,
@@ -333,7 +333,7 @@ const data = [
     new_section_img: medical2,
     new_section_heading: " Rising Cost And Budget Cuts",
     new_section_heading_para:
-      "Outsourcing medical clinics billing services has proven to be the perfect solution for medical clinics where effective medical clinics’ revenue cycle management (RCM) is critical to maintaining a sustainable income. Trivium MBS provides certified and experienced billers and coders who are familiar with the practices of medical clinics.",
+      "Outsourcing medical clinics billing services has proven to be the perfect solution for medical clinics where effective medical clinics’ revenue cycle management (RCM) is critical to maintaining a sustainable income. The sure ways solutions provides certified and experienced billers and coders who are familiar with the practices of medical clinics.",
     why_heading: "Why Outsourcing Medical Billing Is Best for Medical Clinics",
     why_para:
       "Medical clinics are often the first contact a patient makes when they join a new insurance plan or start to seek care for a serious condition. Dissatisfied patients at this level will quickly change providers, so it is important that they have a good experience with your office. Professional billers are able to focus completely on handling your claims, allowing physicians practices and medical staff to give their attention to patients. There are some aspects of billing that affect medical clinics and make it especially beneficial for them to outsource. These include:",
@@ -353,13 +353,13 @@ const data = [
     side_txt: "GENERAL SURGERY BILLING",
     heading: "Results-Driven General Surgery Coding and Billing Services",
     heading_para:
-      "We completely understand the hard work and dedication that general surgeons put into their specialty. Investing large amounts of time and energy into the complexities of general surgery medical billing and coding should not be part of the daily workload Did you know, doctors spend up to 25% of their time on paperwork?      That’s why we recommend outsourcing general surgery billing to a professional billing company like Trivium MBS. We want you to be able to focus more on what you love doing: taking care of patients.",
+      "We completely understand the hard work and dedication that general surgeons put into their specialty. Investing large amounts of time and energy into the complexities of general surgery medical billing and coding should not be part of the daily workload Did you know, doctors spend up to 25% of their time on paperwork?      That’s why we recommend outsourcing general surgery billing to a professional billing company like The sure ways solutions. We want you to be able to focus more on what you love doing: taking care of patients.",
     section_image: gene1,
     new_section_img: gene2,
     new_section_heading:
       "Time Is Money: Outsource Your General Surgery Billing and Boost Your Practice",
     new_section_heading_para:
-      "Providers who outsource surgical practice management to a professional billing company can see a 20 to 30% increase in their revenue. Trivium MBS is a general surgery medical billing company that submits denied or new claims quickly and without errors, which results in good things for your bottom line. Our billing and coding specialists save you time and make you money, so why wait?",
+      "Providers who outsource surgical practice management to a professional billing company can see a 20 to 30% increase in their revenue. The sure ways solutions is a general surgery medical billing company that submits denied or new claims quickly and without errors, which results in good things for your bottom line. Our billing and coding specialists save you time and make you money, so why wait?",
     why_heading:
       "We Deal With All General Surgery Medical Billing and Coding Issues",
     why_para:
@@ -378,14 +378,14 @@ const data = [
     route: "fghq",
     bg_image: fghq,
     side_txt: "FQHC BILLING SERVICES",
-    heading: "FQHC Billing Services Provided by Trivium MBS",
+    heading: "FQHC Billing Services Provided by The sure ways solutions",
     heading_para:
       "Federally Qualified Health Centers (FQHCs) provide a wide range of services and employ a variety of medical professionals, which means medical billing can be especially complex. Coding must be done exactly as specified by the Centers for Medicare & Medicaid Services (CMS) special rules for facilities designated as FQHCs, so it has proven beneficial to outsource coding and billing to professionals who specialize in revenue cycle management (RCM).",
     section_image: fghq1,
     new_section_img: fghq2,
     new_section_heading: "We Are Trained On HIPAA Best Practices",
     new_section_heading_para:
-      "Medicare codes can be very complicated, and because FQHCs offer so many different kinds of services, it is difficult for medical staff to be aware of all the correct codes. Trivium MBS provides coders and billers who are not only certified, but also have experience providing FQHC billing services. Every employee is also trained on HIPAA best practices to ensure that patient information is handled securely.",
+      "Medicare codes can be very complicated, and because FQHCs offer so many different kinds of services, it is difficult for medical staff to be aware of all the correct codes. The sure ways solutions provides coders and billers who are not only certified, but also have experience providing FQHC billing services. Every employee is also trained on HIPAA best practices to ensure that patient information is handled securely.",
     why_heading: "The Challenges of Medical Billing for FQHCs",
     why_para:
       "An FQHC sees many patients with different needs, which means coders and billers need to be experienced with many different codes. These are just a few of the reasons billing for this kind of medical facility can be so complex:",
@@ -403,9 +403,9 @@ const data = [
     route: "traumatology",
     bg_image: traum,
     side_txt: "Traumatology",
-    heading: "Trivium MBS Manages Traumatology Billing Services",
+    heading: "The sure ways solutions Manages Traumatology Billing Services",
     heading_para:
-      "It is no secret that medical billing and coding are complicated and demand far too much doctors’ time and attention. There is good news, though. They can be outsourced to a professional traumatology medical billing company like Trivium MBS, which focuses solely on revenue cycle management (RCM) including the details of coding and billing.",
+      "It is no secret that medical billing and coding are complicated and demand far too much doctors’ time and attention. There is good news, though. They can be outsourced to a professional traumatology medical billing company like The sure ways solutions, which focuses solely on revenue cycle management (RCM) including the details of coding and billing.",
     section_image: traum1,
     new_section_img: traum2,
     new_section_heading: "Save Your Energy For Patient Care",
@@ -428,14 +428,14 @@ const data = [
     route: "rheumatology",
     bg_image: ruma,
     side_txt: "RHEUMATOLOGY BILLING SERVICES",
-    heading: "Trivium MBS’s Rheumatology Billing Services",
+    heading: "The sure ways solutions’s Rheumatology Billing Services",
     heading_para:
       "Medical billing is complex in general, and rheumatology practices don’t have it any easier than other fields. Outsourcing revenue cycle management (RCM), including rheumatology medical billing and coding has proven to be beneficial for increasing both income and physician job satisfaction.",
     section_image: ruma1,
     new_section_img: ruma2,
     new_section_heading: "Paperwork Takes Up To 25% Of A Doctor’s Time",
     new_section_heading_para:
-      "The amount of paperwork required in medical practice now takes up to 25% of a doctor’s time, and for most of them, it is an unpleasant task and causes many to lose their desire to continue practicing. HIPAA is not a barrier to outsourcing because now there are professional rheumatology billing companies like Trivium MBS who ensure that all employees are trained in privacy and security protocols to assure your patients, and your practice, are protected.",
+      "The amount of paperwork required in medical practice now takes up to 25% of a doctor’s time, and for most of them, it is an unpleasant task and causes many to lose their desire to continue practicing. HIPAA is not a barrier to outsourcing because now there are professional rheumatology billing companies like The sure ways solutions who ensure that all employees are trained in privacy and security protocols to assure your patients, and your practice, are protected.",
     why_heading:
       "3 Reasons Rheumatology Practices Need Professional Billing Services",
     why_para:
@@ -461,7 +461,7 @@ const data = [
     new_section_img: prost2,
     new_section_heading: "Outsourcing Medical Billing And Coding",
     new_section_heading_para:
-      "Outsourcing medical billing and coding to a professional revenue cycle management (RCM) company like Trivium MBS has proven to be a stress-free solution that increases our clients’ income. Our billers are certified and experienced in dealing with prostheses, and all our staff are also trained in HIPPA compliance, so you don’t have to worry about patient data being secure.",
+      "Outsourcing medical billing and coding to a professional revenue cycle management (RCM) company like The sure ways solutions has proven to be a stress-free solution that increases our clients’ income. Our billers are certified and experienced in dealing with prostheses, and all our staff are also trained in HIPPA compliance, so you don’t have to worry about patient data being secure.",
     why_heading: "Why Prostheses Medical Billing Should Be Outsourced",
     why_para:
       "Even a practice that performs routine exams and treatments benefits from having their billing managed by dedicated professionals, but for something as involved as prostheses, which may even be customized for each patient, medical billing requires experience and expertise to get it right. And because each item can be a high-dollar claim, it is important that coding be right, or significant amounts of revenue can be lost. These are a few additional aspects of prosthetics that make coding and billing complex:",
@@ -545,7 +545,7 @@ const data = [
       "The future revenue cycle management of your lab depends on accurate documentation and proper reporting. It is critical to adjust front-office and back-office procedures to ensure maximum reimbursement from all payers. Many insurance companies have narrowed their provider networks, and pathology labs are increasingly deemed, out-of-network providers. Adding to the challenge is the fact that health insurers are placing greater limitations on benefits. It’s becoming more and more difficult to collect payments from insurers and patients alike. You may not be able to do anything about coverage, but you can avoid these types of denied claims and collection accounts by verifying eligibility before providing services.",
     mutliple_image: pathology3,
     // bundled_heading:"High-Loss Claims ",
-    bundled_para:"Trivium MBS provides comprehensive pathology billing services that identify and address potential compliance, regulatory, and reporting issues before they occur to keep your lab profitable and less operational costs. We do aggressive claims follow up and effectively collect on old A/R accounts to recover lost revenue, and we submit accurate, timely claims for consistent revenue streams and cash flow. Our certified medical billing professionals have specialized expertise in pathology medical billing services which results in a shortened reimbursement cycle and maximized profitability.",
+    bundled_para:"The sure ways solutions provides comprehensive pathology billing services that identify and address potential compliance, regulatory, and reporting issues before they occur to keep your lab profitable and less operational costs. We do aggressive claims follow up and effectively collect on old A/R accounts to recover lost revenue, and we submit accurate, timely claims for consistent revenue streams and cash flow. Our certified medical billing professionals have specialized expertise in pathology medical billing services which results in a shortened reimbursement cycle and maximized profitability.",
     bundled_image:logo,
   },
   {
@@ -609,14 +609,14 @@ const data = [
     route: "neurosurgery",
     bg_image: cardi,
     side_txt: "NEUROSURGERY BILLING SERVICES",
-    heading: "Trivium MBS’s Medical Neurosurgery Billing Services",
+    heading: "The sure ways solutions’s Medical Neurosurgery Billing Services",
     heading_para:
       "Neurosurgery is a highly specialized field of medicine, with neurosurgeons being some of the most educated and trained doctors—so it is a real loss when any of them stop practicing because of job dissatisfaction. One of the major causes of this happening is the load of paperwork that doctors are now saddled with.",
     section_image: cardi1,
     new_section_img: cardi2,
     new_section_heading: "We Relieves Doctors From Responsibility",
     new_section_heading_para:
-      "Trivium MBS relieves doctors of a tremendous amount of administrative responsibility by taking over revenue cycle management (RCM), with customizable services to allow you to decide exactly what you want. All our employees are trained in HIPAA best practices, so you never have to worry about patient privacy, and we have coders and billers who are both certified and experienced in medical neurosurgery billing services.",
+      "The sure ways solutions relieves doctors of a tremendous amount of administrative responsibility by taking over revenue cycle management (RCM), with customizable services to allow you to decide exactly what you want. All our employees are trained in HIPAA best practices, so you never have to worry about patient privacy, and we have coders and billers who are both certified and experienced in medical neurosurgery billing services.",
     why_heading: "Medical Billing Challenges for Neurosurgery Practices",
     why_para:
       "Erroneous medical codes: Medical billers who redirect the records in the same code, consider themselves so familiar with the procedure that they don’t focus on the subtle features of the process, which results in erroneous medical codes.",
@@ -643,7 +643,7 @@ const data = [
     new_section_heading:
       "Outsourcing Medical Billing For Efficient DME billing Process",
     new_section_heading_para:
-      "Outsourcing medical billing to professionals like Trivium MBS frees up office staff to deal with patients and helps to avoid patients becoming upset because of misunderstood bills and unexpected charges for durable medical equipment by doing error free billing.",
+      "Outsourcing medical billing to professionals like The sure ways solutions frees up office staff to deal with patients and helps to avoid patients becoming upset because of misunderstood bills and unexpected charges for durable medical equipment by doing error free billing.",
     why_heading: "How is DME billing different from other medical billing?",
     why_para:
       "It provides rentals in e-commerce stores and requires HCPCS codes. Upon receiving a health policy, HCMCS identifies items that have been invoiced or services offered. HCPCS codes E0607 refer to the blood pressure test in a household or workplace.",
@@ -662,7 +662,7 @@ const data = [
     route: "gynecology",
     bg_image: oncology,
     side_txt: "GYNECOLOGY BILLING SERVICES",
-    heading: "Trivium MBS’s Gynecology Billing Services",
+    heading: "The sure ways solutions’s Gynecology Billing Services",
     heading_para:
       "Gynecology is a relatively straightforward field of medicine, with most care falling into a few categories, but that doesn’t mean medical billing and coding aren’t complicated. Regardless of what field of medicine you are in, medical billing is challenging and increases physician dissatisfaction, so outsourcing has become more usual and has proven to be a terrific relief for medical office staff—and it actually increases revenue.",
     section_image: oncology1,
@@ -697,10 +697,10 @@ const data = [
     new_section_img: nepro2,
     new_section_heading: "Paperwork Became Such A Drain",
     new_section_heading_para:
-      "Thousands of doctors have retired early or left private practice to join a large institution because the medical billing paperwork became such a drain on their resources that it was impractical to stay in business. Trivium MBS is happy to provide the relief needed and be able to increase revenue for our clients.",
+      "Thousands of doctors have retired early or left private practice to join a large institution because the medical billing paperwork became such a drain on their resources that it was impractical to stay in business. The sure ways solutions is happy to provide the relief needed and be able to increase revenue for our clients.",
     why_heading: "Why Outsource Immunology Medical Billing and Coding?",
     why_para:
-      "Doctors and medical staff are not only more effective but also happier when they don’t have to deal with filing claims and managing denials and rejections. It is far better to allow them to focus on patient care and entrust billing and coding to a company like Trivium MBS. Practices in all fields have benefited from outsourcing, but these reasons make it especially beneficial for allergy and immunology.",
+      "Doctors and medical staff are not only more effective but also happier when they don’t have to deal with filing claims and managing denials and rejections. It is far better to allow them to focus on patient care and entrust billing and coding to a company like The sure ways solutions. Practices in all fields have benefited from outsourcing, but these reasons make it especially beneficial for allergy and immunology.",
     multiple_heading: "Rising Costs And Reduced Reimbursement",
     multiple_para:
       "Immunology and allergy are both areas where payers have cut their costs by reducing reimbursement amounts, but physicians are dealing with rising costs for their supplies and medications. Narrow profit margins make it especially important for every service to be reimbursed, which requires error-free claims.",
@@ -726,7 +726,7 @@ const data = [
       "It can be difficult for inexperienced coders—especially in a busy medical office environment—to catch all the details. That’s why we recommend outsourcing medical billing and coding to someone who specializes only in that aspect of the business. Revenue cycle management (RCM) can be handled externally, allowing physicians and medical staff to focus on caring for patients while having highly-trained specialists manage claims.",
     why_heading: "Billing and Coding Concerns for Disability Services",
     // why_para:
-    // "Medical billing for podiatrists deals with a wide range of coding problems compared to other medical fields. We totally understand that grappling with the complexities of podiatry billing and coding challenges is a major frustration for providers. However, withTrivium MBS you can wave goodbye to time-consuming paperwork and payers’ complexities. We frequently find errors in these challenges for podiatry billing::",
+    // "Medical billing for podiatrists deals with a wide range of coding problems compared to other medical fields. We totally understand that grappling with the complexities of podiatry billing and coding challenges is a major frustration for providers. However, withThe sure ways solutions you can wave goodbye to time-consuming paperwork and payers’ complexities. We frequently find errors in these challenges for podiatry billing::",
     multiple_heading: "Specialized Equipment Limitations",
     multiple_para:
       "Insurers and payers have differing policies regarding durable medical equipment (DME) and other medically necessary equipment, so coders and medical billers must be skilled in checking the payer’s requirements and specific coverage.",
@@ -742,7 +742,7 @@ const data = [
     route: "endocrinology",
     bg_image: syci,
     side_txt: "ENDOCRINOLOGY MEDICAL BILLING SERVICES",
-    heading: "Trivium MBS’s Endocrinology Billing and Coding Services",
+    heading: "The sure ways solutions’s Endocrinology Billing and Coding Services",
     heading_para:
       "Because an endocrinology practice is not only specialized but also involves a lot of lab testing and follow up, endocrinology billing and coding can be especially complex which leads to errors and lost revenue. Medical billing services are becoming indispensable for this kind of practice, which needs to be run as efficiently as possible to maintain a high level of patient care while still being profitable.",
     section_image: syci1,
@@ -768,9 +768,9 @@ const data = [
     route: "physicaltherapy",
     bg_image: logi,
     side_txt: "PHYSICAL THERAPY BILLING SERVICES",
-    heading: "Why Choose Trivium MBS as Your Physical Therapy Billing Company?",
+    heading: "Why Choose The sure ways solutions as Your Physical Therapy Billing Company?",
     heading_para:
-      "As a physical therapy billing company, we completely understand the reimbursement complexities that accompany physical therapy. Payers often have very specific criteria for billing things like documentation standards, treatment duration limitations, pre-authorization procedures and more. These criteria can make reimbursement difficult for physical therapists. Trivium MBS stays up to date with payer policies and guidelines to ensure our clients are paid for their hard work. We use state of the art physical therapy medical billing software to file accurate claims on time. Outsource your medical billing services to us and see just how much more efficient your billing and collections can be.",
+      "As a physical therapy billing company, we completely understand the reimbursement complexities that accompany physical therapy. Payers often have very specific criteria for billing things like documentation standards, treatment duration limitations, pre-authorization procedures and more. These criteria can make reimbursement difficult for physical therapists. The sure ways solutions stays up to date with payer policies and guidelines to ensure our clients are paid for their hard work. We use state of the art physical therapy medical billing software to file accurate claims on time. Outsource your medical billing services to us and see just how much more efficient your billing and collections can be.",
     section_image: logi1,
     new_section_img: logi2,
     new_section_heading: "Simplifying Compliance for Physiotherapists",
@@ -808,7 +808,7 @@ const data = [
       "Medical billing is undeniably complex, and OBGYN billing services become even more complicated with specialized codes and different rules for each payer or insurer. It has proven beneficial for many OB GYN centers to outsource their billing services. Doing so reduces the chances of errors, and improves claims submission and reimbursement rates for them. Here are a few of the reasons OB GYN coding and billing requires specialized experience.",
     multiple_heading: "Bundling Pregnancy and Childbirth Care",
     multiple_para:
-      "Some payers and insurers bundle care during pregnancy and childbirth into one claim, which means the practitioner delivers nine months of service before getting paid—and each claim is for a large sum, making it extremely important that claims not be rejected or denied. Trivium MBS provides top-notch OBGYN medical billing services that include tracking bundled care to make sure you get paid for any extra services provided.",
+      "Some payers and insurers bundle care during pregnancy and childbirth into one claim, which means the practitioner delivers nine months of service before getting paid—and each claim is for a large sum, making it extremely important that claims not be rejected or denied. The sure ways solutions provides top-notch OBGYN medical billing services that include tracking bundled care to make sure you get paid for any extra services provided.",
     mutliple_image: logo,
     bundled_heading: "Widely Varying Coverage",
     bundled_para:
@@ -831,7 +831,7 @@ const data = [
       "In today’s financial climate, with costs rising and budgets being cut, it is especially important to have effective medical billing so that all claims are properly reimbursed. Most practices that don’t have specialists managing their coding and billing are losing significant amounts of revenue.",
     why_heading: "Top Reasons to Outsource Wound Care Billing",
     why_para:
-      "Medical codes are complicated and on top of that, they change every year, making it extremely difficult for staff in medical practice to keep up, which results in expensive errors. Outsourcing to a professional revenue cycle management (RCM) company like Trivium MBS ensures that you receive the highest possible reimbursement. These are three of the reasons it is especially beneficial for wound care centers to outsource medical billing.",
+      "Medical codes are complicated and on top of that, they change every year, making it extremely difficult for staff in medical practice to keep up, which results in expensive errors. Outsourcing to a professional revenue cycle management (RCM) company like The sure ways solutions ensures that you receive the highest possible reimbursement. These are three of the reasons it is especially beneficial for wound care centers to outsource medical billing.",
     multiple_heading: "Referrals",
     multiple_para:
       "Most wound care patients come in on referral and the referring physician’s office will usually have checked to see if their insurance covers your services—but you can’t assume that is the case. When each new patient makes an appointment, the wound care center must verify insurance coverage.",
@@ -853,9 +853,9 @@ const data = [
     section_image: gene1,
     new_section_img: gene2,
     new_section_heading:
-      "Outsourcing Medical Billing to Trivium MBS Protects Your Revenue",
+      "Outsourcing Medical Billing to The sure ways solutions Protects Your Revenue",
     new_section_heading_para:
-      "Trivium MBS maximizes client reimbursement by filing clean, error-free claims within a day or two of the time the test was run. When denials are received, we appeal and track each claim to ensure our clients get paid for the work they do.",
+      "The sure ways solutions maximizes client reimbursement by filing clean, error-free claims within a day or two of the time the test was run. When denials are received, we appeal and track each claim to ensure our clients get paid for the work they do.",
     // why_heading:
     //   "We Deal With All General Surgery Medical Billing and Coding Issues",
     // why_para:
@@ -866,7 +866,7 @@ const data = [
     mutliple_image: gene3,
     bundled_heading: "So You Can Focus on Quality Care",
     bundled_para:
-      "Trivium’s clients are able to focus on patient care and best practices in testing because they can rely on our team to ensure the accuracy and timely filing of claims. Our billers and coders not only stay on top of coding changes and reporting requirements as they happen, but we are also alert for potential issues that could occur in the future. We take pride in our ability to correct and collect on denied claims because we understand that the revenue of our clients’ labs depends on the work we do.",
+      "The sure ways solution’s clients are able to focus on patient care and best practices in testing because they can rely on our team to ensure the accuracy and timely filing of claims. Our billers and coders not only stay on top of coding changes and reporting requirements as they happen, but we are also alert for potential issues that could occur in the future. We take pride in our ability to correct and collect on denied claims because we understand that the revenue of our clients’ labs depends on the work we do.",
     bundled_image: gene4,
   },
 
@@ -877,19 +877,19 @@ const data = [
     side_txt: "Primary Care Services",
     heading: "Physician Billing Services",
     heading_para:
-      "Physicians spend years developing the skills required to build a thriving practice. But even with that expertise, it is extremely challenging to keep abreast of the ever- advancing field of revenue cycle management. Trivium MBS handles all aspects of physician billing and management solutions, including aging accounts receivable recovery. We also provide a full suite of medical revenue cycle management services that are custom-tailored to fit your requirements.",
+      "Physicians spend years developing the skills required to build a thriving practice. But even with that expertise, it is extremely challenging to keep abreast of the ever- advancing field of revenue cycle management. The sure ways solutions handles all aspects of physician billing and management solutions, including aging accounts receivable recovery. We also provide a full suite of medical revenue cycle management services that are custom-tailored to fit your requirements.",
     section_image: fghq1,
     new_section_img: fghq2,
     new_section_heading: "FREEING DOCTORS TO FOCUS ON THEIR TRUE PRIORITIES",
     new_section_heading_para:
-      "Trivium MBS takes on revenue cycle management (RCM) from start to finish, so doctors can dedicate their attention to patient care, with only minimal distraction from admin responsibilities.      ",
+      "The sure ways solutions takes on revenue cycle management (RCM) from start to finish, so doctors can dedicate their attention to patient care, with only minimal distraction from admin responsibilities.      ",
     why_heading:
-      "Why Choose Trivium MBS for Your Physician Billing and Management Services?",
+      "Why Choose The sure ways solutions for Your Physician Billing and Management Services?",
     why_para:
-      "Trivium MBS offers comprehensive EHR/EMR & primary care physician billing services and best-practice process management to shorten your reimbursement cycle, increase revenue streams, and maximize profitability.",
+      "The sure ways solutions offers comprehensive EHR/EMR & primary care physician billing services and best-practice process management to shorten your reimbursement cycle, increase revenue streams, and maximize profitability.",
     multiple_heading: "Full Suite of RCM Services:",
     multiple_para:
-      "With our innovative physician’s revenue cycle management system, Trivium MBS strengthens all aspects of RCM, including patient scheduling, payer credentialing, insurance verification, charting and coding review, claims management and much more.      We strive to nurture the financial health of your organization and relieve the administrative burden of dealing with insurance carriers. We provide medical billing services for all specialties in an all-in-one solution to streamline your billing process and obtain maximum revenue for your practice.",
+      "With our innovative physician’s revenue cycle management system, The sure ways solutions strengthens all aspects of RCM, including patient scheduling, payer credentialing, insurance verification, charting and coding review, claims management and much more.      We strive to nurture the financial health of your organization and relieve the administrative burden of dealing with insurance carriers. We provide medical billing services for all specialties in an all-in-one solution to streamline your billing process and obtain maximum revenue for your practice.",
     mutliple_image: fghq3,
     bundled_heading: "Denial and Rejection Management:",
     bundled_para:
@@ -905,7 +905,7 @@ const data = [
     heading:
       "Reduce Outstanding Payments with Our Nursing Home Billing Solutions",
     heading_para:
-      "Outsourcing medical coding and billing has become a popular solution for medical institutions of all kinds, and can be especially helpful for nursing homes. It is important to work with a professional organization, like Trivium MBS, with certified coders and staff who are trained in HIPAA best practices, and have experience in nursing home medical billing.",
+      "Outsourcing medical coding and billing has become a popular solution for medical institutions of all kinds, and can be especially helpful for nursing homes. It is important to work with a professional organization, like The sure ways solutions, with certified coders and staff who are trained in HIPAA best practices, and have experience in nursing home medical billing.",
     section_image: traum1,
     new_section_img: traum2,
     new_section_heading: "Escape Complicated Medicare Rules",
@@ -930,7 +930,7 @@ const data = [
     route: "pediatric",
     bg_image: ruma,
     side_txt: "PEDIATRIC MEDICAL BILLING SERVICES",
-    heading: "How Trivium MBS Can Help in Pediatric Billing Services",
+    heading: "How The sure ways solutions Can Help in Pediatric Billing Services",
     heading_para:
       "Pediatric offices need their staff to be especially attentive to patients so outsourcing pediatric billing services can be particularly beneficial. Not only are there unique challenges to dealing with children, but there are also often siblings present and since children are so vulnerable to contagious diseases, extra precautions and short wait times are necessary, all of which require the attention of in-office staff.",
     section_image: ruma1,
@@ -960,12 +960,12 @@ const data = [
     side_txt: "Ambulatory Surgery Center (ASC) Billing Services",
     heading: "Ambulatory Surgery Center (ASC) Billing Services",
     heading_para:
-      "Ambulatory surgery centers (ASCs) have the same billing complexities that hospitals do—but with a much smaller medical billing staff to take care of the questions and issues that may arise. Outsourcing medical billing to Trivium MBS relieves the pressure created by trying to stay current on the complex coding guidelines while running a successful surgery center.",
+      "Ambulatory surgery centers (ASCs) have the same billing complexities that hospitals do—but with a much smaller medical billing staff to take care of the questions and issues that may arise. Outsourcing medical billing to The sure ways solutions relieves the pressure created by trying to stay current on the complex coding guidelines while running a successful surgery center.",
     section_image: prost1,
     new_section_img: prost2,
     new_section_heading: "Dedication to Revenue Cycle Management",
     new_section_heading_para:
-      "Over the last decade, Trivium MBS has grown its expertise in ambulatory surgery medical billing and coding, and expanded into all aspects of medical revenue cycle management (RCM). Our steady growth and successful track record are due in large part to having developed procedures that all of our highly trained staff follow to ensure that every client receives the same excellent ambulatory services. We submit accurate codes in agreement with CMS guidelines to help you achieve maximum revenue.",
+      "Over the last decade, The sure ways solutions has grown its expertise in ambulatory surgery medical billing and coding, and expanded into all aspects of medical revenue cycle management (RCM). Our steady growth and successful track record are due in large part to having developed procedures that all of our highly trained staff follow to ensure that every client receives the same excellent ambulatory services. We submit accurate codes in agreement with CMS guidelines to help you achieve maximum revenue.",
     // why_heading: "Why Prostheses Medical Billing Should Be Outsourced",
     // why_para:
     // "Even a practice that performs routine exams and treatments benefits from having their billing managed by dedicated professionals, but for something as involved as prostheses, which may even be customized for each patient, medical billing requires experience and expertise to get it right. And because each item can be a high-dollar claim, it is important that coding be right, or significant amounts of revenue can be lost. These are a few additional aspects of prosthetics that make coding and billing complex:",
@@ -975,7 +975,7 @@ const data = [
     mutliple_image: prost3,
     bundled_heading: "Innovative, Scalable Approach",
     bundled_para:
-      "Trivium MBS does much more than processing claims. Our innovative approach to ASC billing services includes complete medical revenue cycle management (RCM) from pre-appointment scheduling to handling collections. Ongoing training is another critical aspect of our successful system to ensure that our coders and billers are always up to date. By developing a large, highly trained team of medical billing and coding staff, we have been able to establish a group of specialists who are experienced with the specifics of coding for ambulatory surgery centers among many other specialties in the medical field.",
+      "The sure ways solutions does much more than processing claims. Our innovative approach to ASC billing services includes complete medical revenue cycle management (RCM) from pre-appointment scheduling to handling collections. Ongoing training is another critical aspect of our successful system to ensure that our coders and billers are always up to date. By developing a large, highly trained team of medical billing and coding staff, we have been able to establish a group of specialists who are experienced with the specifics of coding for ambulatory surgery centers among many other specialties in the medical field.",
     bundled_image: prost4,
   },
 
@@ -991,13 +991,13 @@ const data = [
     new_section_img: dermatology2,
     new_section_heading: "We Ensure Accurate Claims Submission",
     new_section_heading_para:
-      "Trivium MBS offers specialized molecular, genetic, and diagnostic laboratory billing services to ensure claims are properly coded and submitted in a timely manner and with all supporting documentation. Our certified medical billing specialists are experts at what they do, and they stay on top of all changes to CPT codes. Our specialized knowledge and experience mean we submit accurate claims the first time and see increased collections on A/R accounts.   Constant changes in the field mean the CPT codes update regularly, making it difficult for in-house billers to keep up with the latest changes. In some cases, one code can be applied to ten different genes, but in others the gene isn’t specified so the claim has to be billed with an unlisted code. On top of that, there is another layer of management to deal with in the MolDX organizations and coding requirements.    ",
+      "The sure ways solutions offers specialized molecular, genetic, and diagnostic laboratory billing services to ensure claims are properly coded and submitted in a timely manner and with all supporting documentation. Our certified medical billing specialists are experts at what they do, and they stay on top of all changes to CPT codes. Our specialized knowledge and experience mean we submit accurate claims the first time and see increased collections on A/R accounts.   Constant changes in the field mean the CPT codes update regularly, making it difficult for in-house billers to keep up with the latest changes. In some cases, one code can be applied to ten different genes, but in others the gene isn’t specified so the claim has to be billed with an unlisted code. On top of that, there is another layer of management to deal with in the MolDX organizations and coding requirements.    ",
     // why_heading: "Challenges in Dermatology Medical Billing and Coding",
     // why_para:
     //   "Medical coding and billing is a challenge for any practice, but it can be even worse for dermatology. The following have been identified as some of the more frequently occurring issues.",
     multiple_heading: "Dedication to Revenue Cycle Management   Dedication to Revenue Cycle Management",
     multiple_para:
-      "Over the last decade, Trivium MBS has grown its expertise in ambulatory surgery medical billing and coding, and expanded into all aspects of medical revenue cycle management (RCM). Our steady growth and successful track record are due in large part to having developed procedures that all of our highly trained staff follow to ensure that every client receives the same excellent ambulatory services. We submit accurate codes in agreement with CMS guidelines to help you achieve maximum revenue.",
+      "Over the last decade, The sure ways solutions has grown its expertise in ambulatory surgery medical billing and coding, and expanded into all aspects of medical revenue cycle management (RCM). Our steady growth and successful track record are due in large part to having developed procedures that all of our highly trained staff follow to ensure that every client receives the same excellent ambulatory services. We submit accurate codes in agreement with CMS guidelines to help you achieve maximum revenue.",
     mutliple_image: dermatology3,
     bundled_heading: "Continual Electronic System Updates ",
     bundled_para:
@@ -1017,10 +1017,10 @@ const data = [
     new_section_img: pulmonology2,
     new_section_heading: "Busy Medical Staff To Keep Up",
     new_section_heading_para:
-      "All this change makes it impossible for busy medical staff to keep up with the latest billing guidelines. Outsourcing to a professional medical billing company like Trivium MBS has proven to be very successful for practices of all sizes. Because our ophthalmology medical billing services are not medical, but only focused on the revenue cycle management (RCM) aspect, we are able to stay up to date on billing and coding changes.",
+      "All this change makes it impossible for busy medical staff to keep up with the latest billing guidelines. Outsourcing to a professional medical billing company like The sure ways solutions has proven to be very successful for practices of all sizes. Because our ophthalmology medical billing services are not medical, but only focused on the revenue cycle management (RCM) aspect, we are able to stay up to date on billing and coding changes.",
     why_heading: "3 Reasons to Outsource Billing for Ophthalmology",
     why_para:
-      "Medical codes are complicated, and it is difficult for individual billers to stay abreast of all the changes. Trivium MBS provides an innovative approach to billing and coding, with a staff that is not only certified but also experienced in ophthalmology insurance billing. Billing done in-house can be thrown completely off if one person becomes ill or is called away on an emergency, but our large staff has someone ready to step in if the regular person doing the billing is not available.",
+      "Medical codes are complicated, and it is difficult for individual billers to stay abreast of all the changes. The sure ways solutions provides an innovative approach to billing and coding, with a staff that is not only certified but also experienced in ophthalmology insurance billing. Billing done in-house can be thrown completely off if one person becomes ill or is called away on an emergency, but our large staff has someone ready to step in if the regular person doing the billing is not available.",
     multiple_heading: "Detailed Modifiers",
     multiple_para:
       "Ophthalmology billing modifiers must be used with basic medical billing codes to notate whether both eyes were affected, or if it was left or right. If a minor procedure is done on the same day as an office visit, there is a modifier needed. Billers and coders must also know how to code for multiple procedures in the same setting, etc.",
@@ -1038,18 +1038,18 @@ const data = [
     side_txt: "Radiology Services",
     heading: "Imaging Center Billing Services",
     heading_para:
-      "Trivium MBS provides a comprehensive range of services to meet the unique needs of your imaging center. Now you can count on one radiology medical billing company for radiology revenue cycle management services (RCM), accounts receivable recovery , electronic health record/electronic medical record (EHR/EMR) technologies, practice management, and patient engagement services.",
+      "The sure ways solutions provides a comprehensive range of services to meet the unique needs of your imaging center. Now you can count on one radiology medical billing company for radiology revenue cycle management services (RCM), accounts receivable recovery , electronic health record/electronic medical record (EHR/EMR) technologies, practice management, and patient engagement services.",
     section_image: pathology1,
     new_section_img: pathology2,
     new_section_heading: "Expert Billing for Modern Radiology Services",
     new_section_heading_para:
-      "Radiology is a fast-developing specialty and Trivium MBS’s certified coders provide the skills required to correctly code and submit claims to get maximum reimbursements. Our billing company helps labs to improve your cash flow and claim submission process, and increase profitability.",
+      "Radiology is a fast-developing specialty and The sure ways solutions’s certified coders provide the skills required to correctly code and submit claims to get maximum reimbursements. Our billing company helps labs to improve your cash flow and claim submission process, and increase profitability.",
     why_heading: "Our Focus Is Revenue So Yours Can Be Patient Care",
     why_para:
       "We understand that your focus isn’t on understanding complex regulations and coding requirements for billing. Your attention is on providing the best possible care for patients. And it should be. Our radiology medical billing professionals are detail-oriented and have specialized experience in proving medical necessity. We review patient records and assign the appropriate diagnosis codes, including claims that contain only a rule-out diagnosis. That means quick, timely reimbursement for you.",
     multiple_heading: "New Technologies Mean Complicated Coding",
     multiple_para:
-      "Coding for radiology practices and diagnostic imaging centers is complicated because so many newer technologies and treatments are involved. Many see denied claims due to inaccurate modifiers used with CPT codes, but with Trivium MBS’s radiology billing services, you can be confident that you’ll receive compensation for the time and care you’ve provided to patients for both technical and professional components. Free-standing imaging centers, mobile imaging (such as x-ray and ultrasound), and free-standing radiology equipment create additional challenges in coding. These are the kind of details the top billing companies routinely manage to simplify your RCM process.      ",
+      "Coding for radiology practices and diagnostic imaging centers is complicated because so many newer technologies and treatments are involved. Many see denied claims due to inaccurate modifiers used with CPT codes, but with The sure ways solutions’s radiology billing services, you can be confident that you’ll receive compensation for the time and care you’ve provided to patients for both technical and professional components. Free-standing imaging centers, mobile imaging (such as x-ray and ultrasound), and free-standing radiology equipment create additional challenges in coding. These are the kind of details the top billing companies routinely manage to simplify your RCM process.      ",
     mutliple_image: pathology3,
     bundled_heading:"Free Your Attention",
     bundled_para:"It’s difficult to remain entirely focused on patient care when you’re worried about your bottom line. If you’re spending valuable resources trying to diagnose finances rather than patients, then perhaps it’s time to schedule a check-up for your current radiology billing methods.",
@@ -1061,14 +1061,14 @@ const data = [
     route: "gastroenterology",
     bg_image: thoracic,
     side_txt: "GASTROENTEROLOGY MEDICAL BILLING SERVICES",
-    heading: "Gastroenterology Billing Services Performed by Trivium MBS",
+    heading: "Gastroenterology Billing Services Performed by The sure ways solutions",
     heading_para:
       "Whether a gastroenterology practice is in a hospital or ambulatory surgery center, there are many parts that go into even simple procedures. All of those parts must be accounted for in the codes that are submitted for billing, and anything that is missing or inconsistent will cause a claim to be rejected.",
     section_image: thoracic1,
     new_section_img: thoracic2,
     new_section_heading: "Physicians Spending More Time On Paperwork",
     new_section_heading_para:
-      "There is a lot of detail involved, contributing to physicians spending more and more time on paperwork and having less time and energy for patient care. The good news is that almost all of the administrative work related to gastroenterology practice billing RCM can be outsourced to professional billing companies like Trivium MBS who do nothing but manage that aspect of the medical field.",
+      "There is a lot of detail involved, contributing to physicians spending more and more time on paperwork and having less time and energy for patient care. The good news is that almost all of the administrative work related to gastroenterology practice billing RCM can be outsourced to professional billing companies like The sure ways solutions who do nothing but manage that aspect of the medical field.",
     why_heading: "Why Do Gastroenterology Billing Services Need Specialists?",
     why_para:
       "Medical billers and coders should always be trained, but it is especially important for specializations such as gastroenterology billing and coding, which uses a unique set of codes but also has several conditions making billing service more complex, such as",
@@ -1155,7 +1155,7 @@ const data = [
       "All medical offices are impacted by the complexity of the medical billing system; however, there are some ways in which an infectious medicine practice may be especially affected. These include.",
     multiple_heading: "CChallenges With Front Office Scheduling Functions:",
     multiple_para:
-      "The infectious disease billing RCM starts with scheduling when the insurer’s coverage and allowable charges are verified. Trivium MBS’s innovative software keeps your office up to date with recent changes to the codes and payers’ individual policies.",
+      "The infectious disease billing RCM starts with scheduling when the insurer’s coverage and allowable charges are verified. The sure ways solutions’s innovative software keeps your office up to date with recent changes to the codes and payers’ individual policies.",
     mutliple_image: thoracic3,
     bundled_heading: "Keeping up with government incentives and offers:",
     bundled_para:
@@ -1168,7 +1168,7 @@ const data = [
     route: "substance",
     bg_image: thoracic,
     side_txt: "SUBSTANCE ABUSE AND REHABILITATION CENTERS BILLING SERVICES",
-    heading: "Trivium MBS’s Substance Abuse Medical Billing Services",
+    heading: "The sure ways solutions’s Substance Abuse Medical Billing Services",
     heading_para:
       "Rehabilitation medical billing & coding, like that for any field of medicine is complicated and time-consuming, but it is vital to the success of any rehab or treatment facility. With insurers and government payers cutting down on their payments wherever they can and expenses rising, it is more important than ever to have efficient medical billing for rehab. Outsourcing rehabilitation medical billing services and claims management to professionals has proven to be the best solution for many treatment and rehab centers.",
     section_image: thoracic1,
@@ -1192,9 +1192,9 @@ const data = [
     route: "geriatrics",
     bg_image: thoracic,
     side_txt: "GERIATRICS BILLING SERVICES",
-    heading: "Geriatrics Billing Services by Trivium MBS",
+    heading: "Geriatrics Billing Services by The sure ways solutions",
     heading_para:
-      "Geriatrics is a demanding field and medical practitioners need to be able to fully focus on patient care—not have their energy drained by concerns with medical billing and other aspects of revenue cycle management (RCM). Trivium MBS is a professional company that is dedicated to providing the highest quality medical RCM services, including billing and coding. Our clients not only get increased revenue, but also higher job satisfaction.",
+      "Geriatrics is a demanding field and medical practitioners need to be able to fully focus on patient care—not have their energy drained by concerns with medical billing and other aspects of revenue cycle management (RCM). The sure ways solutions is a professional company that is dedicated to providing the highest quality medical RCM services, including billing and coding. Our clients not only get increased revenue, but also higher job satisfaction.",
     section_image: thoracic1,
     new_section_img: thoracic2,
     new_section_heading: " Predominance of Medicare patients",
@@ -1203,7 +1203,7 @@ const data = [
     why_heading:
       "3 Top Reasons Why Geriatrics Practices Should Outsource Medical Billing",
     why_para:
-      "Trivium MBS’s billers are certified and experienced in coding for geriatrics. Medical billing is complicated no matter what field you are in, but geriatrics has a some challenges that make outsourcing especially beneficial. These are a few of them.",
+      "The sure ways solutions’s billers are certified and experienced in coding for geriatrics. Medical billing is complicated no matter what field you are in, but geriatrics has a some challenges that make outsourcing especially beneficial. These are a few of them.",
     multiple_heading: "Variable insurer and payer plans    ",
     multiple_para:
       "There are many options within Medicare, which vary from state to state. Patients may have several different programs (with varying benefits) to choose from for Part B, then they choose whether to get prescription drug coverage. Or they may choose a “Part C” plan which is an HMO or PPO. Each of these options will have different rules about what is covered, making the system very confusing for patients as well as medical staff.",
@@ -1225,11 +1225,11 @@ const data = [
   //   new_section_img: thoracic2,
   //   new_section_heading: " Successful Order Management",
   //   new_section_heading_para:
-  //     "Lab orders must be input into the system swiftly and accurately in order to provide quality patient care. The many tasks that internal staff members may be assigned might lead to overwork or distraction, which can slow down order input or result in data inaccuracies. Pay close attention to the details since even minor inaccuracies that don't affect the validity of the lab findings, such a mismatched date or misspelled name, may lead the claim to be rejected and prevent you from being paid for the service.    The Trivium staff will input your orders into the LIS swiftly and accurately, regardless of whether they are in manual, email, or EMR format (or more often, a combination of all three).",
+  //     "Lab orders must be input into the system swiftly and accurately in order to provide quality patient care. The many tasks that internal staff members may be assigned might lead to overwork or distraction, which can slow down order input or result in data inaccuracies. Pay close attention to the details since even minor inaccuracies that don't affect the validity of the lab findings, such a mismatched date or misspelled name, may lead the claim to be rejected and prevent you from being paid for the service.    The The sure ways solution staff will input your orders into the LIS swiftly and accurately, regardless of whether they are in manual, email, or EMR format (or more often, a combination of all three).",
   //   why_heading:
   //     "3 Top Reasons Why Geriatrics Practices Should Outsource Medical Billing",
   //   why_para:
-  //     "Trivium MBS’s billers are certified and experienced in coding for geriatrics. Medical billing is complicated no matter what field you are in, but geriatrics has a some challenges that make outsourcing especially beneficial. These are a few of them.",
+  //     "The sure ways solutions’s billers are certified and experienced in coding for geriatrics. Medical billing is complicated no matter what field you are in, but geriatrics has a some challenges that make outsourcing especially beneficial. These are a few of them.",
   //   multiple_heading: "Variable insurer and payer plans    ",
   //   multiple_para:
   //     "There are many options within Medicare, which vary from state to state. Patients may have several different programs (with varying benefits) to choose from for Part B, then they choose whether to get prescription drug coverage. Or they may choose a “Part C” plan which is an HMO or PPO. Each of these options will have different rules about what is covered, making the system very confusing for patients as well as medical staff.",

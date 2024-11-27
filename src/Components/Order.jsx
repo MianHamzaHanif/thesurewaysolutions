@@ -64,7 +64,7 @@ const Order = () => {
                         <div className='col-lg-6 col-12'>
                             <h2 className='clr'>Successful Order Management</h2>
                             <p>Lab orders must be input into the system swiftly and accurately in order to provide quality patient care. The many tasks that internal staff members may be assigned might lead to overwork or distraction, which can slow down order input or result in data inaccuracies. Pay close attention to the details since even minor inaccuracies that don't affect the validity of the lab findings, such a mismatched date or misspelled name, may lead the claim to be rejected and prevent you from being paid for the service.</p>
-                            <p>The Trivium staff will input your orders into the LIS swiftly and accurately, regardless of whether they are in manual, email, or EMR format (or more often, a combination of all three).</p>
+                            <p> The sure ways solution staff will input your orders into the LIS swiftly and accurately, regardless of whether they are in manual, email, or EMR format (or more often, a combination of all three).</p>
                             <button className='btn btn_demo'>Schedule Demo</button>
                         </div>
                         <div className='col-lg-6 col-12 text-center'>
@@ -78,8 +78,8 @@ const Order = () => {
                 <div className='container'>
                     <div className='row align-items-center'>
                         <div className='col-lg-6 col-12'>
-                            <h2 className='clr'>What Sets the Services Off at Trivium?</h2>
-                            <p>What Sets the Services Off at Trivium?</p>
+                            <h2 className='clr'>What Sets the Services Off at The sure ways solution?</h2>
+                            <p>What Sets the Services Off at The sure ways solution?</p>
                             {/* <button className='btn btn_demo'>Schedule Demo</button> */}
                         </div>
                         <div className='col-lg-6 col-12 text-center'>
@@ -98,7 +98,7 @@ const Order = () => {
                         <div className='col-lg-6 col-12'>
                             <h2 className='clr'>
                             There are standalone services available.</h2>
-                            <p>Each client's demands are met by the services that Trivium MBS provides. Our revenue cycle management team comprises specialists in the front- and back-office duties that are crucial to any medical firm, in addition to medical billing and coding services. If that's all you require, separate services for order administration, demographic entry, insurance verification, etc. are also offered.</p>
+                            <p>Each client's demands are met by the services that The sure ways solutions provides. Our revenue cycle management team comprises specialists in the front- and back-office duties that are crucial to any medical firm, in addition to medical billing and coding services. If that's all you require, separate services for order administration, demographic entry, insurance verification, etc. are also offered.</p>
                             {/* <button className='btn btn_demo'>Schedule Demo</button> */}
                         </div>
 

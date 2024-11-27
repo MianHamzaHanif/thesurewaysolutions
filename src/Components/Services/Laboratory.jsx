@@ -21,8 +21,8 @@ const Laboratory = () => {
       <div className='diff_bg'>
         <div className='container'>
           <div className='row pt-5'>
-            <h1 className='text-center'>Trivium MBS’s Laboratory Billing Services</h1>
-            <p className='text-center'>Trivium MBS’s lab billing services cover all aspects of medical revenue cycle management (RCM), from payer credentialing to old AR collection. Laboratory medical billing services are available as a standalone offering or in a completely customizable package that may include insurance verification, patient billing and old AR collections, medical coding and billing software, and more.</p>
+            <h1 className='text-center'>The sure ways solutions’s Laboratory Billing Services</h1>
+            <p className='text-center'>The sure ways solutions’s lab billing services cover all aspects of medical revenue cycle management (RCM), from payer credentialing to old AR collection. Laboratory medical billing services are available as a standalone offering or in a completely customizable package that may include insurance verification, patient billing and old AR collections, medical coding and billing software, and more.</p>
           </div>
         </div>
         <div className='container'>
@@ -72,7 +72,7 @@ const Laboratory = () => {
             <div className='row align-items-center'>
               <div className='col-lg-6 col-12 '>
                 <h2>Comprehensive Laboratory Billing Solutions</h2>
-                <p>Unlike many medical billing companies that only service high-ticket providers, Trivium MBS’s innovative approach works perfectly for lab billing solutions where a high volume of low-dollar claims need to be processed. The efficiency of our system allows us to quickly scrub and file hundreds of claims, typically within 48 hours, and includes a manager assigned to each client who will track all claims, making sure each one gets reimbursed.
+                <p>Unlike many medical billing companies that only service high-ticket providers, The sure ways solutions’s innovative approach works perfectly for lab billing solutions where a high volume of low-dollar claims need to be processed. The efficiency of our system allows us to quickly scrub and file hundreds of claims, typically within 48 hours, and includes a manager assigned to each client who will track all claims, making sure each one gets reimbursed.
                 </p>
               </div>
               <div className='col-lg-6 col-12'>
@@ -84,7 +84,7 @@ const Laboratory = () => {
 
         <div className='bg_recover text-center p-5'>
           <h3 className='text-white'>LAB MEDICAL BILLING SERVICES FOR MAXIMUM REIMBURSEMENT</h3>
-          <p className='text-white text-center'>Trivium MBS’s expert billing for medical laboratory services includes scrubbing and submitting claims within a few days, then tracking all claims until they are paid, resulting in greatly increased revenue.</p>
+          <p className='text-white text-center'>The sure ways solutions’s expert billing for medical laboratory services includes scrubbing and submitting claims within a few days, then tracking all claims until they are paid, resulting in greatly increased revenue.</p>
           <div className='d-flex justify-content-center text-center gap-3'>
           <NavLink to="/contact" className="ms-0">
           <button className='btn btn_demo'>Schedule Demo</button>
@@ -114,7 +114,7 @@ const Laboratory = () => {
               </div>
               <div className='col-lg-6 col-12'>
                 <h3>Always Up to Date</h3>
-                <p>The coding and billing teams at Trivium MBS are highly trained and experienced, but ongoing training is part of our business model, to keep everyone up to date on code changes and new payer requirements. A final step in our claims management process that helps us really stand out is tracking down the source of the error that caused the rejection or denial, and re-training the responsible party to make sure errors are not repeated. So, our lab billing solutions can optimize your billing process substantially.</p>
+                <p>The coding and billing teams at The sure ways solutions are highly trained and experienced, but ongoing training is part of our business model, to keep everyone up to date on code changes and new payer requirements. A final step in our claims management process that helps us really stand out is tracking down the source of the error that caused the rejection or denial, and re-training the responsible party to make sure errors are not repeated. So, our lab billing solutions can optimize your billing process substantially.</p>
               </div>
 
             </div>
@@ -126,7 +126,7 @@ const Laboratory = () => {
             <div className='col-lg-6 col-12'>
               <h3>Detailed and Transparent Reporting</h3>
               <p>
-                With Trivium MBS providing your laboratory medical billing solutions, you are relieved of the time-consuming and often tedious work, but will still know exactly what’s going on with your revenue. Our reports are presented regularly, and are designed to keep you abreast of several key performance indicators (KPIs). You will see how long it is taking to get paid and how the accounts-receivable balance is doing relative to the value of services provided, for example. You will see that you are getting paid faster and the proportion of unpaid bills gets smaller after working with us.
+                With The sure ways solutions providing your laboratory medical billing solutions, you are relieved of the time-consuming and often tedious work, but will still know exactly what’s going on with your revenue. Our reports are presented regularly, and are designed to keep you abreast of several key performance indicators (KPIs). You will see how long it is taking to get paid and how the accounts-receivable balance is doing relative to the value of services provided, for example. You will see that you are getting paid faster and the proportion of unpaid bills gets smaller after working with us.
               </p>
             </div>
             <div className='col-lg-6 col-12 text-center'>
@@ -144,7 +144,7 @@ const Laboratory = () => {
               <div className='col-lg-6 col-12'>
                 <h3>Risk Free Partnership</h3>
                 <p>Our innovative approach of medical billing for laboratories is so successful that we offer a guarantee of at least a 10% revenue increase. And unlike some other laboratory billing companies, there are no hidden fees. No startup charges or setup fees will be added to your account balance.
-                  When you outsource laboratory medical billing to Trivium MBS, you are working with a trusted partner whose focus is solely on ensuring your success.</p>
+                  When you outsource laboratory medical billing to The sure ways solutions, you are working with a trusted partner whose focus is solely on ensuring your success.</p>
               </div>
 
             </div>
@@ -167,13 +167,13 @@ const Laboratory = () => {
                 {/* <img src={recoveryicon} alt="" className='text-center justify-content-center ms-lg-5 ms-0' /> */}
                 <h5 className='text-center pt-3'>
                   Runs Smoothly</h5>
-                <p className='text-center pt-1'>We assign a Trivium MBS Regional Manager to your office to ensure that everything runs smoothly.</p>
+                <p className='text-center pt-1'>We assign a The sure ways solutions Regional Manager to your office to ensure that everything runs smoothly.</p>
               </div>
               <div className='col-lg-3 col-12 '>
                 {/* <img src={recoveryicon} alt="" className='text-center justify-content-center ms-lg-5 ms-0' /> */}
                 <h5 className='text-center pt-3'>
                   HR Services</h5>
-                <p className='text-center pt-1'>The Trivium MBS process can also work with payroll, coordinate benefits and provide your office with human resource services.</p>
+                <p className='text-center pt-1'>The The sure ways solutions process can also work with payroll, coordinate benefits and provide your office with human resource services.</p>
               </div>
               <div className='col-lg-3 col-12 '>
                 {/* <img src={recoveryicon} alt="" className='text-center justify-content-center ms-lg-5 ms-0' /> */}
@@ -189,7 +189,7 @@ const Laboratory = () => {
         <div className='bg_reco p-5'>
           <div className=' text-white'>
             <h5 className='text-white text-center'>The Lab Business Isn’t Getting Any Easier</h5>
-            <p className='text-center'>Leverage Trivium MBS’s lab expertise to improve efficiency and increase revenue.</p>
+            <p className='text-center'>Leverage The sure ways solutions’s lab expertise to improve efficiency and increase revenue.</p>
           </div>
 
         </div>

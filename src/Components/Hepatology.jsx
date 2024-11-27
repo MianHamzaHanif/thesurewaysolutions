@@ -32,10 +32,10 @@ const Hepatology = () => {
         <div className='container pt-5'>
           <div className='row align-items-center'>
             {/* <div className='col-lg-6 col-12 '>
-                    <h2>Trivium MBS’s AR Recovery Services Maximize Revenue</h2>
-                    <p>Trivium MBS offers a comprehensive range of AR management services, recovering outstanding revenue from old AR accounts that are aging more than 120 days. Our system has been proven to be highly effective at increasing recovery, even from accounts that were thought to be lost causes.
+                    <h2>The sure ways solutions’s AR Recovery Services Maximize Revenue</h2>
+                    <p>The sure ways solutions offers a comprehensive range of AR management services, recovering outstanding revenue from old AR accounts that are aging more than 120 days. Our system has been proven to be highly effective at increasing recovery, even from accounts that were thought to be lost causes.
 
-Unlike most medical billing companies, who only offer AR recovery solutions as part of a revenue cycle management package, Trivium MBS offers AR medical billing recovery services as a standalone option. We don’t believe in a one-size-fits-all approach to healthcare receivable recovery solutions and want to meet the unique needs of your business.
+Unlike most medical billing companies, who only offer AR recovery solutions as part of a revenue cycle management package, The sure ways solutions offers AR medical billing recovery services as a standalone option. We don’t believe in a one-size-fits-all approach to healthcare receivable recovery solutions and want to meet the unique needs of your business.
 
 </p>
 <button className='btn btn_demo'>Free AR Analysis</button>
@@ -75,7 +75,7 @@ Unlike most medical billing companies, who only offer AR recovery solutions as p
       </div>
       {/* <div className='bg_recover text-center p-5'>
         <h1 className='text-white'></h1>
-        <p className='text-white'>Trivium MBS’s innovative system tracks every claim to completion, getting our clients the revenue they deserve.</p>
+        <p className='text-white'>The sure ways solutions’s innovative system tracks every claim to completion, getting our clients the revenue they deserve.</p>
         <div className='d-flex justify-content-center text-center gap-3'>
           <button className='btn btn_demo'>Click to Call
           </button>
@@ -83,7 +83,7 @@ Unlike most medical billing companies, who only offer AR recovery solutions as p
         </div>
       </div> */}
       <div className='container pt-5'>
-        {/* <h2 className='clr text-center'>Trivium MBS’s 4-Part Strategy for AR Recovery</h2>
+        {/* <h2 className='clr text-center'>The sure ways solutions’s 4-Part Strategy for AR Recovery</h2>
         <p className='text-center'>Our strategy for managing aging AR accounts has been developed through years of experience. Our old AR recovery service is a streamlined approach that is both fast and effective.</p> */}
         <div className='row'>
           <div className='col-lg-6 col-12'>
@@ -149,8 +149,8 @@ Unlike most medical billing companies, who only offer AR recovery solutions as p
 
       <div className='bg_reco p-5'>
         <div className='text-start text-white'>
-          <p>Trivium MBS is an industry leader and trusted name in medical accounts receivable collections because we know how to get results. Our mastery of complex medical coding and AR management services sets us apart. But it’s our breadth of knowledge that allows us to shine. Our medical billing company successfully serves healthcare facilities of all types and sizes, and we specialize in medical billing for physicians, laboratories, radiology & imaging centers, and hospitals.
-            We know it’s difficult to remain entirely focused on patient care when you’re worried about your bottom line. If you’re spending valuable time and energy trying to diagnose finances, then perhaps it’s time to enlist the aid of a professional medical billing company like Trivium MBS.</p>
+          <p>The sure ways solutions is an industry leader and trusted name in medical accounts receivable collections because we know how to get results. Our mastery of complex medical coding and AR management services sets us apart. But it’s our breadth of knowledge that allows us to shine. Our medical billing company successfully serves healthcare facilities of all types and sizes, and we specialize in medical billing for physicians, laboratories, radiology & imaging centers, and hospitals.
+            We know it’s difficult to remain entirely focused on patient care when you’re worried about your bottom line. If you’re spending valuable time and energy trying to diagnose finances, then perhaps it’s time to enlist the aid of a professional medical billing company like The sure ways solutions.</p>
         </div>
 
       </div>

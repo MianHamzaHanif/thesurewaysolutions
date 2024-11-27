@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react'
-import logo from '../../../assets/Trivium_logo_123-11-01-01-02.png'
+// import logo from '../../../assets/Trivium_logo_123-11-01-01-02.png'
+import logo from '../../../assets/thesureway.png';
+
 import { Container, Button } from 'react-bootstrap';
 import { Nav } from 'react-bootstrap';
 import { Navbar } from 'react-bootstrap';

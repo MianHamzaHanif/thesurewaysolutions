@@ -18,7 +18,7 @@ const HospitalBilling = () => {
                     <div className='row align-items-center'>
                         <div className='col-lg-6 col-12'>
                             <h1>Hospital Revenue Cycle Management</h1>
-                            <p>For your healthcare organization's particular demands, Trivium MBS offers a wide variety of hospital billing solutions. We provide practice management, patient engagement, electronic health record/electronic medical record (EHR/EMR) technology, hospital revenue cycle management services, and medical accounts receivable (AR recovery) services.</p>
+                            <p>For your healthcare organization's particular demands, The sure ways solutions offers a wide variety of hospital billing solutions. We provide practice management, patient engagement, electronic health record/electronic medical record (EHR/EMR) technology, hospital revenue cycle management services, and medical accounts receivable (AR recovery) services.</p>
                             {/* <button className='btn btn_demo'>Increase Collections</button> */}
                         </div>
                         <div className='col-lg-6 col-12 text-center'>
@@ -60,7 +60,7 @@ const HospitalBilling = () => {
                     <div className='row align-items-center'>
                         <div className='col-lg-6 col-12'>
                             <h2 className='clr'>Resource Allocation and Billing Administration Reduction</h2>
-                            <p>To fulfill the specific requirements of your healthcare institution, Trivium MBS provides a wide variety of hospital billing solutions. We provide practice management, patient engagement, electronic health record/electronic medical record (EHR/EMR) technology, medical accounts receivable (AR recovery services), and hospital revenue cycle management services.</p>
+                            <p>To fulfill the specific requirements of your healthcare institution, The sure ways solutions provides a wide variety of hospital billing solutions. We provide practice management, patient engagement, electronic health record/electronic medical record (EHR/EMR) technology, medical accounts receivable (AR recovery services), and hospital revenue cycle management services.</p>
                           <NavLink to="/contact" className="ms-0">
                           <button className='btn btn_demo'>Schedule Demo</button>
                           </NavLink>
@@ -78,7 +78,7 @@ const HospitalBilling = () => {
                     <div className='row align-items-center'>
                         <div className='col-lg-6 col-12'>
                             <h2 className='clr'>We Heal. Your Revenue</h2>
-                            <p>Each year, billions of dollars are lost as a result of ineffective billing systems. In actuality, the vast majority of claims have processing flaws that need to be fixed. For effective hospital billing and collection services, Trivium MBS keeps up with the frequently changing legislation and compliance standards. To ensure error-free claims and maximum recovery, our billing department offers a comprehensive variety of individualized, specially designed hospital billing services.</p>
+                            <p>Each year, billions of dollars are lost as a result of ineffective billing systems. In actuality, the vast majority of claims have processing flaws that need to be fixed. For effective hospital billing and collection services, The sure ways solutions keeps up with the frequently changing legislation and compliance standards. To ensure error-free claims and maximum recovery, our billing department offers a comprehensive variety of individualized, specially designed hospital billing services.</p>
                             {/* <button className='btn btn_demo'>Schedule Demo</button> */}
                         </div>
                         <div className='col-lg-6 col-12 text-center'>
@@ -114,7 +114,7 @@ const HospitalBilling = () => {
                         <div className='col-lg-6 col-12'>
                             <h2 className='clr'>
                                 We Care About Your Success</h2>
-                            <p>At Trivium MBS, we address the hospital billing and collection process from every angle. In addition to hiring the most talented individuals, we also make significant investments in cutting-edge medical billing software to deliver services that are unmatched. Our internal quality control procedures assure correct claims and a flawless billing process the first time around as a hospital billing business. From pre-admission processes through coding, AR management, collections and follow-up, to precise real-time reporting, we provide end-to-end services. Reduced operational expenses, improved reimbursement and collection ratios, and the recovery of accounts receivable going back as long as a full year are among benefits that our hospital clients experience. The income stream and financial health of your hospital can be greatly impacted by unpaid claims, denied claims, and underpayments. It may have an adverse effect on your main objective, patient care. Accurate charge input with the proper billing codes is now more important than ever for institutional billing due to the rise in the number of insured Americans. Looking for Impact on Revenue? Contact us!
+                            <p>At The sure ways solutions, we address the hospital billing and collection process from every angle. In addition to hiring the most talented individuals, we also make significant investments in cutting-edge medical billing software to deliver services that are unmatched. Our internal quality control procedures assure correct claims and a flawless billing process the first time around as a hospital billing business. From pre-admission processes through coding, AR management, collections and follow-up, to precise real-time reporting, we provide end-to-end services. Reduced operational expenses, improved reimbursement and collection ratios, and the recovery of accounts receivable going back as long as a full year are among benefits that our hospital clients experience. The income stream and financial health of your hospital can be greatly impacted by unpaid claims, denied claims, and underpayments. It may have an adverse effect on your main objective, patient care. Accurate charge input with the proper billing codes is now more important than ever for institutional billing due to the rise in the number of insured Americans. Looking for Impact on Revenue? Contact us!
 
                             </p>
                             <NavLink to="/contact" className="ms-0">

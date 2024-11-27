@@ -9,7 +9,7 @@ const Testicards = () => {
                     <div className='col-lg-6 col-12 revenue_box d-flex'>
                         <img src={testicard} className='img-fluid testi_card' alt="" />
                         <div className='d-block ms-3'>
-                            <p>I am very thankful to Trivium MBS because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
+                            <p>I am very thankful to The sure ways solutions because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
                             <p className='text-primary'>Watch Story</p>
                             <h6 className='mt-3 clr'>SHOBHA SOLOMON
                             </h6>
@@ -19,7 +19,7 @@ const Testicards = () => {
                     <div className='col-lg-6 col-12 revenue_box d-flex'>
                         <img src={testicard} className='img-fluid testi_card' alt="" />
                         <div className='d-block ms-3'>
-                            <p>I am very thankful to Trivium MBS because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
+                            <p>I am very thankful to The sure ways solutions because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
                             <p className='text-primary'>Watch Story</p>
                             <h6 className='mt-3 clr'>SHOBHA SOLOMON
                             </h6>
@@ -34,7 +34,7 @@ const Testicards = () => {
                     <div className='col-lg-6 col-12 revenue_box d-flex'>
                         <img src={testicard} className='img-fluid testi_card' alt="" />
                         <div className='d-block ms-3'>
-                            <p>I am very thankful to Trivium MBS because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
+                            <p>I am very thankful to The sure ways solutions because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
                             <p className='text-primary'>Watch Story</p>
                             <h6 className='mt-3 clr'>SHOBHA SOLOMON
                             </h6>
@@ -44,7 +44,7 @@ const Testicards = () => {
                     <div className='col-lg-6 col-12 revenue_box d-flex'>
                         <img src={testicard} className='img-fluid testi_card' alt="" />
                         <div className='d-block ms-3'>
-                            <p>I am very thankful to Trivium MBS because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
+                            <p>I am very thankful to The sure ways solutions because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
                             <p className='text-primary'>Watch Story</p>
                             <h6 className='mt-3 clr'>SHOBHA SOLOMON
                             </h6>
@@ -60,7 +60,7 @@ const Testicards = () => {
                     <div className='col-lg-6 col-12 revenue_box d-flex'>
                         <img src={testicard} className='img-fluid testi_card' alt="" />
                         <div className='d-block ms-3'>
-                            <p>I am very thankful to Trivium MBS because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
+                            <p>I am very thankful to The sure ways solutions because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
                             <p className='text-primary'>Watch Story</p>
                             <h6 className='mt-3 clr'>SHOBHA SOLOMON
                             </h6>
@@ -70,7 +70,7 @@ const Testicards = () => {
                     <div className='col-lg-6 col-12 revenue_box d-flex'>
                         <img src={testicard} className='img-fluid testi_card' alt="" />
                         <div className='d-block ms-3'>
-                            <p>I am very thankful to Trivium MBS because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
+                            <p>I am very thankful to The sure ways solutions because they rectified all the mistakes which were done by my previous billing partner. They are so fast and efficient.</p>
                             <p className='text-primary'>Watch Story</p>
                             <h6 className='mt-3 clr'>SHOBHA SOLOMON
                             </h6>

@@ -55,7 +55,7 @@ const ContactForm = () => {
         <div className='col-lg-6 col-12 '>
           <h2 className='clr'>Tell Us Where to Reach You</h2>
           <p className='mb-0'>A member of our team will get back to you within 12 hours.</p>
-          <p>For immediate service, give us a call at 800-640-6409.</p>
+          <p>For immediate service, give us a call at 281-904-9237.</p>
           <form className='' onSubmit={handleSubmit(onSubmit)}>
             <div className='demo_box2 justify-content-between d-lg-flex d-block w-100 '>
               <div className='w-lg-50 w-100'>
@@ -125,10 +125,12 @@ const ContactForm = () => {
         </div>
         <div className='col-lg-6 col-12'>
           <h2 className='clr'>Business Address</h2>
-          <h2>312 W 2nd St a779, Casper, WY 82601, USA</h2>
+          {/* <h2>30 N Gould St Ste R Sheridan, WY 82801</h2> */}
+          <h2>L10707 corporate drive suit 250-122, Stafford 77477,Texas</h2>
+          
           <div>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2925.1083417055265!2d-106.33164712349117!3d42.84944547115163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8760bca480ca44a5%3A0xa22e368b60645bd9!2s312%20W%202nd%20St%20a779%2C%20Casper%2C%20WY%2082601%2C%20USA!5e0!3m2!1sen!2s"
+              src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3468.0154618713077!2d-95.59490232446194!3d29.632294175133772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sL10707%20corporate%20drive%20suit%20250-122%2C%20Stafford%2077477%2CTexas!5e0!3m2!1sen!2s!4v1732538384870!5m2!1sen!2s"
               width="100%"
               height="400"
               style={{ border: 0 }}
@@ -145,25 +147,26 @@ const ContactForm = () => {
           <div className='col-lg-3 revenue_box text-center'>
             <img src={phone} alt="" className='img-fluid mb-3' />
             <p className='text-center'>PHONE</p>
-            <p className='text-center'>+0 000 000 0000</p>
+            {/* <p className='text-center'>307-316-The sure ways solution</p> */}
+            <p className='text-center'>281-904-9237</p>
 
           </div>
           <div className='col-lg-3 revenue_box text-center'>
             <img src={fax} alt="" className='img-fluid mb-3' />
             <p className='text-center'>FAX</p>
-            <p className='text-center'>+0 000 000 0000</p>
+            <p className='text-center'>307-288-0381</p>
 
           </div>
           <div className='col-lg-3 revenue_box text-center'>
             <img src={email} alt="" className='img-fluid mb-3' />
             <p className='text-center'>FOR SALES</p>
-            <p className='text-center'>sales@triviummbs.com</p>
+            <p className='text-center'>sales@thesurewayssolutions.com</p>
 
           </div>
           <div className='col-lg-3 revenue_box text-center'>
             <img src={email} alt="" className='img-fluid mb-3' />
             <p className='text-center'>FOR INFO</p>
-            <p className='text-center'>info@triviummbs.com</p>
+            <p className='text-center'>info@thesurewayssolutions.com</p>
 
           </div>
         </div>
